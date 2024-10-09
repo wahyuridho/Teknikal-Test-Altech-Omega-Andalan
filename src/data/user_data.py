@@ -1,0 +1,6 @@
+base_url = "https://www.saucedemo.com/"
+inventory_url = "https://www.saucedemo.com/inventory.html"
+cart_url = "https://www.saucedemo.com/cart.html"
+cekout_one_url = "https://www.saucedemo.com/checkout-step-one.html"
+cekout_two_url = "https://www.saucedemo.com/checkout-step-two.html"
+complete_url = "https://www.saucedemo.com/checkout-complete.html"
